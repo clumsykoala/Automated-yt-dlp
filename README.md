@@ -1,0 +1,2 @@
+# Automated-yt-dlp
+Downloading from youtube, specially the playlist sometimes becomes necessary, as a medical student. There are ways to download it, but none offer much flexibility and cant be sort with index as the online playlist. Here the yt-dlp offers a lot of functionality and flexibility. but commands are kinda complicated and also irritating to write a whole command again and again and also to modify it. so Here the scripts make it easier for you. Hope it will help you.
